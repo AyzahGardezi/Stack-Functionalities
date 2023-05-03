@@ -1,4 +1,4 @@
-# Stack_Functionalities
+# Stack Functionalities
 
 The C file in the repository is a solution to a problem I solved on CodeWars when studying a Data Structures and Algorithms course in my undergraduate studies.
 
